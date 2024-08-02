@@ -19,8 +19,8 @@ Certifique-se de ter instalado o [Java 21](https://www.oracle.com/java/technolog
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/stfn-anderson/dojo-spring-ai.git
+   cd dojo-spring-ai
    ```
 
 2. Compile o projeto:
